@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#47916d">
+
+    <TextView
+        android:text="
+        1. Alex Kid in Miracle World\n\n
+        2. Bioshock 1\n\n
+        3. Papers Please\n\n
+        4. Alice Madness Returns\n\n
+        5. Mass Effect 2\n\n
+        6. Afro Samurai\n\n
+        7. Football Manager\n\n
+        8. Lumino City\n\n
+        9. Braid\n\n
+        10. Portal 2
+        "
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="13dp"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:textStyle="italic|bold"/>
+</RelativeLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#739f70">
+
+    <TextView
+        android:text="
+        1. Alex Kid\n\n
+        2. Big Daddy\n\n
+        3. Alan Wake\n\n
+        4. Alice\n\n
+        5. Lumi\n\n"
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:textStyle="italic|bold"/>
+
+</RelativeLayout>
